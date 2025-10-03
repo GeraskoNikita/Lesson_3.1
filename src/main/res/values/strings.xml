@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson_3.1</string>
+    <string name="rentals">Rentals</string>
+    <string name="dates">Dates</string>
+    <string name="price">Price</string>
+    <string name="car">car\n</string>
+</resources>
