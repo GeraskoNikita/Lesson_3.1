@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson_3.1</string>
+    <string name="rentals">Rentals</string>
+    <string name="dates">Dates</string>
+    <string name="price">Price</string>
+    <string name="car">car\n</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
